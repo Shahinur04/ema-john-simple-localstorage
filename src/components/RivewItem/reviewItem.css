@@ -1,0 +1,44 @@
+.review-item {
+  width: 571px;
+  height: 107px;
+  border: 1px solid #95a0a7;
+  border-radius: 8px;
+  box-sizing: border-box;
+  margin-bottom: 25px;
+  display: flex;
+  align-items: center;
+  padding: 8px 25px 8px 8px ;
+}
+.review-item img{
+  width: 91px;
+ 
+  border-radius: 6px;
+
+}
+.twoThing {
+    
+  display: flex;
+  justify-content: space-between;
+  
+
+  
+}
+.price {
+  color: #ff9900;
+}
+.twoThing .name {
+  color: #1c2b35;
+  font-weight: 400;
+  font-size: 21px;
+  line-height: 25px;
+  letter-spacing: 0.0015em;
+}
+.twoThing p{
+    margin: 0 15px;
+}
+.btn-del{
+    height: 55px;
+    width: 55px;
+    background: #EB5757;
+    border-radius: 50%;
+}
