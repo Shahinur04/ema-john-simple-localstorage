@@ -16,8 +16,7 @@ const Order = () => {
       setCart(reaming);
       removeFromDb(id)
     }
-    // console.log(cart);
-    // return products;
+   
   return (
     <div className="shop-container">
       <div className="review-container">
